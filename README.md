@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
+#> shartow_
+
+
+##Frontend Developer
 
 At 15, I started learning frontend development.
 
