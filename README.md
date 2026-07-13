@@ -1,7 +1,6 @@
-#> shartow_
+<h1 align="left">shartow_</h1>
 
-
-##Frontend Developer
+<p align="left">Frontend Developer</p>
 
 At 15, I started learning frontend development.
 
