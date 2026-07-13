@@ -6,6 +6,6 @@ My goal is to build a career in frontend development, travel the world, and earn
 
 Frontend is where I'm starting, but I also want to learn cybersecurity in the future.
 
-## 🐍 Contributions
+##  🐍 Activity
 
 ![Snake](https://raw.githubusercontent.com/shartow/shartow/output/github-contribution-grid-snake.svg)
