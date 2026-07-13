@@ -1,4 +1,4 @@
-<h1 align="left">shartow_</h1>
+<h1 align="left">shartow</h1>
 
 <p align="left">Frontend Developer</p>
 
